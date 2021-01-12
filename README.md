@@ -10,12 +10,14 @@ Many languages contain classes that allow for the functionality of a random numb
 What's the connection between a dripping faucets, the Mandelbrot set, a population of rabbits, thermal convection in a fluid, and the firing of neurons in your brain?
 It's this one simple equation -
 ![Logistic Map Equation](￼￼https://s0.wp.com/latex.php?latex=x_%7Bt%2B1%7D+%3D+r+x_t+%281-x_t%29&bg=ffffff&fg=000&s=0&c=20201002)
+
 (known as the discrete logistic equation or logistic map).
 
 The logistic map is a one dimensional map that, for certain parameter values, can give rise to chaos; this lets us generate pseudo-random numbers from a deterministic process.
 
 This equation defines the rules, or dynamics, of our deterministic system: x represents the population at any given time t, and r represents the growth rate. In other words, the population level at any given time is a function of the growth rate parameter and the previous time step’s population level. If the growth rate is set too low, the population will die out and go extinct. Higher growth rates might settle toward a stable value or fluctuate across a series of population booms and busts.
 ![](https://i2.wp.com/geoffboeing.com/wp-content/uploads/2015/03/logistic-model-line.png?resize=624%2C359&ssl=1)
+
 As simple as this equation is, it produces chaos at certain growth rate parameters.
 
 When we adjust the growth rate parameter beyond 3.5, we see the onset of chaos. A chaotic system has a strange attractor, around which the system oscillates forever, never repeating itself or settling into a steady state of behavior. It never hits the same point twice and its structure has a fractal form, meaning the same patterns exist at every scale no matter how much you zoom into it.
