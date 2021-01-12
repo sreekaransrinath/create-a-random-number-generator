@@ -5,6 +5,9 @@ MLH Local Hack Day: Build 2021 Day 2 Challenge: Create a Random Number Generator
 Many languages contain classes that allow for the functionality of a random number generator, but we want you to create your own method that does this. Don’t pick a random Devpost to submit to, submit your hack on our Day 2 Devpost!
 
 # Submission
+So this particular challenge took me into a rabbit hole that sucked up most of my time today (but was entirely worth it!). I remembered watching a Veritasium video about the logistic map and populations and the Mandelbrot Set and how you could use that to generate pseudo-random numbers. It was fascinating back when I watched it, of course, but I really didn't think much into it (until now). So I went and rewatched the video (more carefully, this time), and did a bit of internet digging myself.
+
+Here's what I found.
 
 ## An Introduction
 What's the connection between a dripping faucets, the Mandelbrot set, a population of rabbits, thermal convection in a fluid, and the firing of neurons in your brain?
