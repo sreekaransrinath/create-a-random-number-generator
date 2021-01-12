@@ -12,7 +12,7 @@ Here's what I found.
 ## An Introduction
 What's the connection between a dripping faucets, the Mandelbrot set, a population of rabbits, thermal convection in a fluid, and the firing of neurons in your brain?
 It's this one simple equation -
-![Logistic Map Equation](￼￼https://s0.wp.com/latex.php?latex=x_%7Bt%2B1%7D+%3D+r+x_t+%281-x_t%29&bg=ffffff&fg=000&s=0&c=20201002)
+![Logistic Map Equation](https://mathworld.wolfram.com/images/equations/LogisticMap/NumberedEquation2.gif)
 
 (known as the discrete logistic equation or logistic map).
 
